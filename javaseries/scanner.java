@@ -1,0 +1,5 @@
+package javaseries;
+
+class scanner {
+
+}
